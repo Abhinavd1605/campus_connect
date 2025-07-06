@@ -9,7 +9,37 @@
 > **App Link:** [Campus Connect](https://drive.google.com/file/d/1rFz6vi6FTMvVqdmE-WIMqCy_a3tqZ121/view?usp=sharing)
 
 ---
+## 📱 **APP FEATURES OVERVIEW**
 
+### 🔍 **Smart Lost & Found System**
+- **Intelligent Matching**: AI-powered algorithm with 90%+ accuracy
+- **Multi-field Search**: Search by name, description, location, category
+- **Advanced Filtering**: Category, status, ownership, date filters
+- **Contact Information**: Secure contact sharing for found items
+- **Status Tracking**: Lost → Found → Claimed → Returned lifecycle
+- **Image Upload**: Firebase Storage integration for item photos
+
+### 🚨 **Anonymous Issue Reporting**
+- **Secure Channel**: Completely anonymous reporting system
+- **Category System**: Maintenance, Safety, Inconvenience categories
+- **Status Management**: Track issue resolution progress
+- **Priority Levels**: High, Medium, Low priority classification
+- **Location Tagging**: Campus location identification
+
+### 👤 **User Management System**
+- **Authentication**: Firebase Auth with email/password
+- **Profile Management**: User profiles with preferences
+- **Contact Preferences**: Flexible contact method selection
+- **Privacy Controls**: User-controlled data sharing
+
+### 🎨 **Modern UI/UX Design**
+- **Glassmorphism**: Beautiful frosted glass effects
+- **Smooth Animations**: 60fps transitions and micro-interactions
+- **Responsive Design**: Adaptive layouts for all screen sizes
+- **Status Indicators**: Color-coded badges and visual feedback
+- **Dark/Light Theme**: Adaptive theming system
+
+--- 
 ## **KEY ADVANCED FEATURES (Hackathon Highlights)**
 
 ### 🤖 **AI-Powered Smart Matching System**
@@ -87,38 +117,6 @@
 - ✅ **Status Management**: Comprehensive item lifecycle tracking
 - ✅ **Search & Filter**: Advanced discovery features
 - ✅ **Real-time Updates**: Live data synchronization
-
----
-
-## 📱 **APP FEATURES OVERVIEW**
-
-### 🔍 **Smart Lost & Found System**
-- **Intelligent Matching**: AI-powered algorithm with 90%+ accuracy
-- **Multi-field Search**: Search by name, description, location, category
-- **Advanced Filtering**: Category, status, ownership, date filters
-- **Contact Information**: Secure contact sharing for found items
-- **Status Tracking**: Lost → Found → Claimed → Returned lifecycle
-- **Image Upload**: Firebase Storage integration for item photos
-
-### 🚨 **Anonymous Issue Reporting**
-- **Secure Channel**: Completely anonymous reporting system
-- **Category System**: Maintenance, Safety, Inconvenience categories
-- **Status Management**: Track issue resolution progress
-- **Priority Levels**: High, Medium, Low priority classification
-- **Location Tagging**: Campus location identification
-
-### 👤 **User Management System**
-- **Authentication**: Firebase Auth with email/password
-- **Profile Management**: User profiles with preferences
-- **Contact Preferences**: Flexible contact method selection
-- **Privacy Controls**: User-controlled data sharing
-
-### 🎨 **Modern UI/UX Design**
-- **Glassmorphism**: Beautiful frosted glass effects
-- **Smooth Animations**: 60fps transitions and micro-interactions
-- **Responsive Design**: Adaptive layouts for all screen sizes
-- **Status Indicators**: Color-coded badges and visual feedback
-- **Dark/Light Theme**: Adaptive theming system
 
 ---
 

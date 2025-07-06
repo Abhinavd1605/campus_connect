@@ -6,7 +6,7 @@
 > **Team:** Individual Submission by Abhinav  
 > **Duration:** 24-Hour Hackathon Challenge  
 > **Category:** Complete Campus Solution with Advanced Features
-> **App Link:** [Campus Connect](https://drive.google.com/file/d/1rFz6vi6FTMvVqdmE-WIMqCy_a3tqZ121/view?usp=sharing)
+> **HI**
 
 ---
 

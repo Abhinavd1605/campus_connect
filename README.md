@@ -6,7 +6,9 @@
 > **Team:** Individual Submission by Abhinav  
 > **Duration:** 24-Hour Hackathon Challenge  
 > **Category:** Complete Campus Solution with Advanced Features <br>
-> **App Link:** [Campus Connect](https://drive.google.com/file/d/1rFz6vi6FTMvVqdmE-WIMqCy_a3tqZ121/view?usp=sharing)
+> **App Link:** [Campus Connect](https://drive.google.com/file/d/1rFz6vi6FTMvVqdmE-WIMqCy_a3tqZ121/view?usp=sharing) <br>
+> **Screen Shots:** [Campus Connect pdf](https://drive.google.com/file/d/1mp6FdFap2OILOIIPOplk5yRvpJo5k6ds/view?usp=sharing) <br>
+> **Demo Video:** [Campus Connect Demo](https://drive.google.com/file/d/1G6aUwOtmQLMTFMs7cvRumwwb1NoojLTO/view?usp=sharing) <br>
 
 ---
 ## 📱 **APP FEATURES OVERVIEW**
@@ -77,8 +79,9 @@
 - **Item Details**: Smart matching suggestions
 - **Issue Reporting**: Anonymous submission form
 - **Profile**: User management and preferences
+- **Link to Screenshots**:[Link](https://drive.google.com/file/d/1mp6FdFap2OILOIIPOplk5yRvpJo5k6ds/view)
 
-### **Demo Video**: [Link to be added]
+### **Demo Video**: [Link](https://drive.google.com/file/d/1G6aUwOtmQLMTFMs7cvRumwwb1NoojLTO/view?usp=sharing)
 
 ---
 

@@ -165,7 +165,7 @@
 
 1. **Clone Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Abhinavd1605/campus_connect.git
    cd campus_connect
    ```
 

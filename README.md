@@ -260,19 +260,6 @@ items.where((item) =>
 
 ---
 
-## 📸 **SCREENSHOTS & DEMO**
-
-### **Key Screenshots:**
-- **Splash Screen**: Animated logo with glassmorphism
-- **Home Dashboard**: Stats cards and quick actions
-- **Lost & Found**: Advanced search and filtering
-- **Item Details**: Smart matching suggestions
-- **Issue Reporting**: Anonymous submission form
-- **Profile**: User management and preferences
-
-### **Demo Video**: [Link to be added]
-
----
 
 
 ## 👨‍💻 **DEVELOPER INFORMATION**

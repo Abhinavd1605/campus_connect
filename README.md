@@ -260,7 +260,7 @@ items.where((item) =>
 ).toList();
 ```
 ## **Route For links**
-- App Link
+- App Link folder in repo.
 ---
 
 
